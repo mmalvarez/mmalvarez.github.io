@@ -17,6 +17,14 @@ author :
   #twitter : username
   #feedburner : feedname
 
+# Pagination for posts
+# But no, because we can't get the template working.
+# paginate: 3
+# paginate_path: "z/page:num"
+
+# Intelligent excerpting
+excerpt_separator: "\n\n\n"
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
